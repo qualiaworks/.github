@@ -9,6 +9,6 @@ We are here to help you strategize and implement AI solutions for your business.
 
 ## Contact
 
-Meet you at [https://qualiaworks.com](qualiaworks.com)
+Meet you at [qualiaworks.com](https://qualiaworks.com)
 
 Book a meeting [here](https://calendly.com/quentin-qualiaworks/30min)
