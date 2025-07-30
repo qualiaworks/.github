@@ -1,12 +1,14 @@
-## Hi there 👋
+# 👋 Welcome to the [Qualiaworks](qualiaworks.com) Github page!
+## Innovative Solutions for the AI age
 
-<!--
+## Services
+We are here to help you strategize and implement AI solutions for your business.
+- Agentic AI Assessment & Strategy
+- AI and data implementation
+- AI operations and optimization
 
-**Here are some ideas to get you started:**
+## Contact
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Meet you at [qualiaworks.com](qualiaworks.com)
+
+Book a meeting [here](https://calendly.com/quentin-qualiaworks/30min)
